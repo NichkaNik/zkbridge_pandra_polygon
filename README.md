@@ -45,3 +45,6 @@ python3 minter.py
 python3 polygon.py
 
 python3 claim.py
+
+
+*Сорри за говнокод
