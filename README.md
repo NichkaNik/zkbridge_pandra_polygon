@@ -15,11 +15,11 @@ https://testnet.bnbchain.org/faucet-smart
 Делаем бриджи 6 нфт панд из полигона в следующей последовательности:
 <ul>
 <li>Polygon - opBNB Testnet </li>
-<li>PPolygon - Mantle (LZ)</li>
-<li>PPolygon - Core Dao (LZ)</li>
-<li>PPolygon - Combo Testnet</li>
-<li>PPolygon - BNB Chain (LZ)</li>
-<li>PPolygon - Celo (LZ)</li>
+<li>Polygon - Mantle (LZ)</li>
+<li>Polygon - Core Dao (LZ)</li>
+<li>Polygon - Combo Testnet</li>
+<li>Polygon - BNB Chain (LZ)</li>
+<li>Polygon - Celo (LZ)</li>
 </ul>
 
 opBNB и Combo не через LZ - создается кошелек_hashes.txt, в которые летят хеши обеих транз, они нужны для будущего клейма
